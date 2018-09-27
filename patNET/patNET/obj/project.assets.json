@@ -5934,11 +5934,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "A:\\Desktop\\DCBot\\patNET\\patNET\\patNET.csproj",
+      "projectUniqueName": "A:\\Dokumente\\GitHub\\patNET\\patNET\\patNET\\patNET.csproj",
       "projectName": "patNET",
-      "projectPath": "A:\\Desktop\\DCBot\\patNET\\patNET\\patNET.csproj",
+      "projectPath": "A:\\Dokumente\\GitHub\\patNET\\patNET\\patNET\\patNET.csproj",
       "packagesPath": "C:\\Users\\xorti\\.nuget\\packages\\",
-      "outputPath": "A:\\Desktop\\DCBot\\patNET\\patNET\\obj\\",
+      "outputPath": "A:\\Dokumente\\GitHub\\patNET\\patNET\\patNET\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
